@@ -17,3 +17,9 @@ coverage.json
 global.json
 
 .claude
+
+# Private local Soulseek installation, credentials, and downloads
+/.local/
+
+# Python control-helper bytecode
+__pycache__/
